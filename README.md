@@ -8,7 +8,7 @@ Unsupervised clustering of stocks by fundamentals/performance. Scaled features, 
 ## 7) Trade Ahead
 
 ```markdown
-# Trade Ahead: Stock Clustering
+# Trade & Ahead: Stock Clustering
 
 Cluster stocks by performance/financial attributes and profile each cluster for investment insight.
 
