@@ -1,11 +1,11 @@
-# Trade-Ahead-Stock-Clustering
+# Trade-&-Ahead-Stock-Clustering
 Unsupervised clustering of stocks by fundamentals/performance. Scaled features, K-means and hierarchical clustering; elbow/silhouette/dendrogram selection; cluster profiling with investment insights. Python, scikit-learn, visualisation.
 
 **Commit message:** `Initial commit: ReneWind failure classification notebook and README`
 
 ---
 
-## 7) Trade Ahead
+## 7) Trade & Ahead
 
 ```markdown
 # Trade & Ahead: Stock Clustering
